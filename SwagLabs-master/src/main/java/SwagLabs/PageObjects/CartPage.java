@@ -22,7 +22,7 @@ WebDriver driver;
 		this.driver =driver;
 		PageFactory.initElements(driver, this);
 		
-	}trgyh
+	}
 	
 	
 	@FindBy(xpath = "//div[@class='inventory_item_name']")
